@@ -1,0 +1,44 @@
+Added Component: Designator=Alimentacion(HDR1X2)
+Added Component: Designator=ISP(ISP)
+Added Component: Designator=JAlimentacion(KLD-0202)
+Added Component: Designator=LCD(LCD)
+Added Component: Designator=PC(HDR1X8)
+Added Component: Designator=PD(HDR1X8)
+Added Component: Designator=PSerie(HDR1X4)
+Added Pin To Net: NetName=VCC Pin=Alimentacion-1
+Added Pin To Net: NetName=GND Pin=Alimentacion-2
+Added Pin To Net: NetName=VCC Pin=ISP-1
+Added Pin To Net: NetName=NetISP_2 Pin=ISP-2
+Added Pin To Net: NetName=NetISP_3 Pin=ISP-3
+Added Pin To Net: NetName=NetISP_4 Pin=ISP-4
+Added Pin To Net: NetName=GND Pin=ISP-5
+Added Pin To Net: NetName=VCC Pin=JAlimentacion-1A
+Added Pin To Net: NetName=VCC Pin=JAlimentacion-1B
+Added Pin To Net: NetName=VCC Pin=JAlimentacion-1
+Added Pin To Net: NetName=GND Pin=JAlimentacion-2A
+Added Pin To Net: NetName=GND Pin=JAlimentacion-2B
+Added Pin To Net: NetName=GND Pin=JAlimentacion-2
+Added Pin To Net: NetName=GND Pin=JAlimentacion-3A
+Added Pin To Net: NetName=GND Pin=JAlimentacion-3B
+Added Pin To Net: NetName=GND Pin=JAlimentacion-3
+Added Pin To Net: NetName=VCC Pin=LCD-1
+Added Pin To Net: NetName=NetLCD_2 Pin=LCD-2
+Added Pin To Net: NetName=NetLCD_3 Pin=LCD-3
+Added Pin To Net: NetName=GND Pin=LCD-4
+Added Pin To Net: NetName=NetISP_3 Pin=LCD-5
+Added Pin To Net: NetName=NetISP_0 Pin=LCD-10
+Added Pin To Net: NetName=NetISP_2 Pin=LCD-11
+Added Pin To Net: NetName=NetLCD_12 Pin=LCD-12
+Added Pin To Net: NetName=NetLCD_13 Pin=LCD-13
+Added Pin To Net: NetName=VCC Pin=LCD-14
+Added Pin To Net: NetName=GND Pin=LCD-15
+Added Pin To Net: NetName=VCC Pin=PSerie-1
+Added Pin To Net: NetName=GND Pin=PSerie-4
+Added Member To Class: ClassName=microprocesador Member=Component Alimentacion Header 2
+Added Member To Class: ClassName=microprocesador Member=Component ISP AVR_ISP
+Added Member To Class: ClassName=microprocesador Member=Component JAlimentacion PWR2.5
+Added Member To Class: ClassName=microprocesador Member=Component LCD
+Added Member To Class: ClassName=microprocesador Member=Component PC Header 8
+Added Member To Class: ClassName=microprocesador Member=Component PD Header 8
+Added Member To Class: ClassName=microprocesador Member=Component PSerie Header 4
+Added Room: Name=microprocesador

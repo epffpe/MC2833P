@@ -1,0 +1,7 @@
+Added Component: Designator=ISP(ISP)
+Added Pin To Net: NetName=SCK Pin=ISP-1
+Added Pin To Net: NetName=RES Pin=ISP-2
+Added Pin To Net: NetName=GND Pin=ISP-3
+Added Pin To Net: NetName=MOSI Pin=ISP-4
+Added Pin To Net: NetName=5V Pin=ISP-5
+Added Member To Class: ClassName=microprocesador Member=Component ISP *

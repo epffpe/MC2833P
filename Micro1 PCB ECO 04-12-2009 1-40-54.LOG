@@ -1,0 +1,8 @@
+Added Component: Designator=PADC(HDR1X3)
+Added Pin To Net: NetName=VCC Pin=PADC-1
+Added Pin To Net: NetName=GND Pin=PADC-3
+Added Pin To Net: NetName=NetPADC_2 Pin=PADC-2
+Added Pin To Net: NetName=NetPADC_2 Pin=PC-1
+Added Pin To Net: NetName=NetPADC_2 Pin=U1-23
+Added Net: Name=NetPADC_2
+Added Member To Class: ClassName=microprocesador Member=Component PADC Header 3

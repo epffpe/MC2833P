@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=ISP-6
+Added Pin To Net: NetName=NetPC_9 Pin=PC-9
+Removed Pin From Net: NetName=MISO Pin=ISP-1
+Added Pin To Net: NetName=5V Pin=ISP-1
+Removed Pin From Net: NetName=SCK Pin=ISP-3
+Added Pin To Net: NetName=MOSI Pin=ISP-3
+Removed Pin From Net: NetName=MOSI Pin=ISP-4
+Added Pin To Net: NetName=RES Pin=ISP-4
+Removed Pin From Net: NetName=RES Pin=ISP-5
+Added Pin To Net: NetName=GND Pin=ISP-5
+Removed Pin From Net: NetName=5V Pin=ISP-2
+Added Pin To Net: NetName=SCK Pin=ISP-2
+Removed Pin From Net: NetName=GND Pin=LCD-1
+Added Pin To Net: NetName=5V Pin=LCD-1
+Removed Pin From Net: NetName=VCC Pin=LCD-2
+Added Pin To Net: NetName=NetLCD_2 Pin=LCD-2

@@ -1,0 +1,8 @@
+Added Component: Designator=B4(Ind 7mm)
+Added Pin To Net: NetName=NetB4_0 Pin=B4-0
+Added Pin To Net: NetName=NetB4_0 Pin=U1-1
+Added Net: Name=NetB4_0
+Added Pin To Net: NetName=NetB4_1 Pin=B4-1
+Added Pin To Net: NetName=NetB4_1 Pin=Y1-1
+Added Net: Name=NetB4_1
+Added Member To Class: ClassName=TX_FM Member=Component B4 Ind3

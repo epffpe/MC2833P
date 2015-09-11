@@ -1,0 +1,93 @@
+Removed Pin From Net: NetName=MISO Pin=ISP-1
+Removed Pin From Net: NetName=GND Pin=ISP-6
+Removed Pin From Net: NetName=VCC Pin=LCD-1
+Removed Pin From Net: NetName=VCC Pin=LCD-14
+Removed Pin From Net: NetName=VCC Pin=PSerie-1
+Removed Pin From Net: NetName=VCC Pin=R?-2
+Removed Pin From Net: NetName=VCC Pin=U1-4
+Removed Pin From Net: NetName=VCC Pin=U1-6
+Removed Pin From Net: NetName=VCC Pin=U1-18
+Removed Pin From Net: NetName=VCC Pin=U1-20
+Change Component Footprint: Designator=PC Old Footprint=HDR1X8 New Footprint=HDR1X9
+Change Component Comment : Designator=PC Old Comment=Header 8 New Comment=Header 9
+Added Component: Designator=C1(CAPPR5-5x5)
+Added Component: Designator=C2(CAPPR5-5x5)
+Added Component: Designator=U2(TO92)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=RES Pin=PC-7
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=VCC Pin=U2-3
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=5V Pin=ISP-1
+Added Pin To Net: NetName=5V Pin=LCD-1
+Added Pin To Net: NetName=5V Pin=LCD-14
+Added Pin To Net: NetName=5V Pin=PSerie-1
+Added Pin To Net: NetName=5V Pin=R?-2
+Added Pin To Net: NetName=5V Pin=U1-4
+Added Pin To Net: NetName=5V Pin=U1-6
+Added Pin To Net: NetName=5V Pin=U1-18
+Added Pin To Net: NetName=5V Pin=U1-20
+Added Pin To Net: NetName=5V Pin=U2-1
+Added Net: Name=5V
+Added Pin To Net: NetName=NetPC_1 Pin=PC-1
+Added Pin To Net: NetName=NetPC_1 Pin=U1-23
+Added Net: Name=NetPC_1
+Added Pin To Net: NetName=NetPC_2 Pin=PC-2
+Added Pin To Net: NetName=NetPC_2 Pin=U1-24
+Added Net: Name=NetPC_2
+Added Pin To Net: NetName=NetPC_3 Pin=PC-3
+Added Pin To Net: NetName=NetPC_3 Pin=U1-25
+Added Net: Name=NetPC_3
+Added Pin To Net: NetName=NetPC_4 Pin=PC-4
+Added Pin To Net: NetName=NetPC_4 Pin=U1-26
+Added Net: Name=NetPC_4
+Added Pin To Net: NetName=NetPC_5 Pin=PC-5
+Added Pin To Net: NetName=NetPC_5 Pin=U1-27
+Added Net: Name=NetPC_5
+Added Pin To Net: NetName=NetPC_6 Pin=PC-6
+Added Pin To Net: NetName=NetPC_6 Pin=U1-28
+Added Net: Name=NetPC_6
+Added Pin To Net: NetName=NetPC_8 Pin=PC-8
+Added Pin To Net: NetName=NetPC_8 Pin=U1-19
+Added Net: Name=NetPC_8
+Added Pin To Net: NetName=NetPC_9 Pin=U1-22
+Added Net: Name=NetPC_9
+Added Pin To Net: NetName=NetPD_1 Pin=PD-1
+Added Pin To Net: NetName=NetPD_1 Pin=PSerie-2
+Added Pin To Net: NetName=NetPD_1 Pin=U1-30
+Added Net: Name=NetPD_1
+Added Pin To Net: NetName=NetPD_2 Pin=PD-2
+Added Pin To Net: NetName=NetPD_2 Pin=PSerie-3
+Added Pin To Net: NetName=NetPD_2 Pin=U1-31
+Added Net: Name=NetPD_2
+Added Pin To Net: NetName=NetPD_3 Pin=PD-3
+Added Pin To Net: NetName=NetPD_3 Pin=U1-32
+Added Net: Name=NetPD_3
+Added Pin To Net: NetName=NetPD_4 Pin=PD-4
+Added Pin To Net: NetName=NetPD_4 Pin=U1-1
+Added Net: Name=NetPD_4
+Added Pin To Net: NetName=NetPD_5 Pin=PD-5
+Added Pin To Net: NetName=NetPD_5 Pin=U1-2
+Added Net: Name=NetPD_5
+Added Pin To Net: NetName=NetPD_6 Pin=PD-6
+Added Pin To Net: NetName=NetPD_6 Pin=U1-9
+Added Net: Name=NetPD_6
+Added Pin To Net: NetName=NetPD_7 Pin=PD-7
+Added Pin To Net: NetName=NetPD_7 Pin=U1-10
+Added Net: Name=NetPD_7
+Added Pin To Net: NetName=NetPD_8 Pin=PD-8
+Added Pin To Net: NetName=NetPD_8 Pin=U1-11
+Added Net: Name=NetPD_8
+Added Member To Class: ClassName=microprocesador Member=Component C1 Cap Pol1
+Added Member To Class: ClassName=microprocesador Member=Component C2 Cap Pol1
+Added Member To Class: ClassName=microprocesador Member=Component U2 L78L05ABZ
+Removed Pin From Net: NetName=VCC Pin=ISP-2
+Added Pin To Net: NetName=SCK Pin=ISP-2
+Removed Pin From Net: NetName=SCK Pin=ISP-3
+Added Pin To Net: NetName=MOSI Pin=ISP-3
+Removed Pin From Net: NetName=MOSI Pin=ISP-4
+Added Pin To Net: NetName=RES Pin=ISP-4
+Removed Pin From Net: NetName=RES Pin=ISP-5
+Added Pin To Net: NetName=GND Pin=ISP-5

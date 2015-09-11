@@ -1,0 +1,7 @@
+   Printed Document[Micro1.PcbDoc]
+   Printed Document[Micro1.PcbDoc]
+
+Files Generated   : 0
+Documents Printed : 2
+
+Finished Output Generation At 14:34:47 On 04/12/2009

@@ -1,0 +1,7 @@
+   Printed Document[mc2833p1.PcbDoc]
+   Printed Document[mc2833p1.PcbDoc]
+
+Files Generated   : 0
+Documents Printed : 2
+
+Finished Output Generation At 17:00:15 On 04/01/2010

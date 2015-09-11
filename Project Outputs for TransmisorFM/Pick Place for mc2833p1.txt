@@ -1,0 +1,33 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R6         2012[0805]            1460mil        900mil       1460mil        900mil       1460mil    937.402mil  T        270.00 Res Semi       
+R5         2012[0805]            1420mil        740mil       1420mil        740mil   1457.401mil        740mil  T        180.00 Res Semi       
+R4         2012[0805]            1440mil       1040mil       1440mil       1040mil   1402.599mil       1040mil  T          0.00 Res Semi       
+R3         2012[0805]            1000mil       1000mil       1000mil       1000mil    962.598mil       1000mil  T        360.00 Res Semi       
+R2         2012[0805]             560mil        940mil        560mil        940mil        560mil    977.402mil  T        270.00 Res Semi       
+R1         2012[0805]            1020mil       1120mil       1020mil       1120mil       1020mil   1082.599mil  T         90.00 Res Semi       
+C14        C0805                 1320mil        900mil       1320mil        900mil       1320mil    862.598mil  T         90.00 Cap Pol3       
+C13        C0805                  895mil        455mil        895mil        455mil        895mil    417.599mil  T         90.00 Cap Pol3       
+C12        C0805                  895mil        275mil        895mil        275mil        895mil    237.599mil  T         90.00 Cap Pol3       
+C11        C0805                 1000mil        740mil       1000mil        740mil    962.598mil        740mil  T          0.00 Cap Pol3       
+C10        C0805                  375mil        620mil        375mil        620mil    337.599mil        620mil  T        360.00 Cap Pol3       
+C9         C0805                  375mil        500mil        375mil        500mil    337.599mil        500mil  T        360.00 Cap Pol3       
+C8         C0805                 1000mil        920mil       1000mil        920mil    962.598mil        920mil  T        360.00 Cap Pol3       
+C7         C0805                  500mil       1120mil        500mil       1120mil    462.599mil       1120mil  T          0.00 Cap Pol3       
+C6         C0805                  320mil       1120mil        320mil       1120mil    282.599mil       1120mil  T          0.00 Cap Pol3       
+C5         C0805                  500mil       1240mil        500mil       1240mil    537.402mil       1240mil  T        180.00 Cap Pol3       
+C4         C0805                 1280mil       1340mil       1280mil       1340mil   1242.599mil       1340mil  T          0.00 Cap Pol3       
+C3         C0805                 1280mil       1200mil       1280mil       1200mil       1280mil   1237.401mil  T        270.00 Cap Pol3       
+C2         C0805                  960mil       1400mil        960mil       1400mil        960mil   1362.599mil  T         90.00 Cap Pol3       
+C1         C0805                  660mil       1360mil        660mil       1360mil    697.402mil       1360mil  T        180.00 Cap Pol3       
+BT1        BAT-2                  240mil       1680mil        240mil       1680mil        240mil       1730mil  T        270.00 Battery        
+ind        AXIAL-0.5             1300mil       1620mil       1300mil       1620mil       1550mil       1620mil  B        180.00 Res Semi       
+Y1         R38                    840mil       1620mil        840mil       1620mil    901.024mil       1620mil  B         90.00 XTAL           
+U1         648-06                 980mil       1100mil        980mil       1100mil       1130mil       1450mil  B        270.00 MC2833P        
+P1         HDR1X3                1780mil       1360mil       1780mil       1460mil       1780mil       1460mil  B        270.00 Audio          
+E1         PIN1                  1140mil        360mil       1140mil        360mil       1140mil        360mil  B        180.00 Antenna        
+Caudio     B                     1560mil       1320mil       1560mil       1320mil       1560mil    1359.37mil  B        270.00 Cap Pol1       
+B3         Ind_7mm            695.945mil    357.205mil        755mil        495mil        755mil        495mil  B        270.00 Ind3           
+B2         Ind_7mm            357.205mil    799.055mil        495mil        740mil        495mil        740mil  B        180.00 Ind3           
+B1         Ind_7mm            297.795mil   1300.945mil        160mil       1360mil        160mil       1360mil  B        360.00 Ind3           
+

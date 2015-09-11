@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=TX_FM Member=L1
+Added Component: Designator=ind(AXIAL-0.5)
+Added Pin To Net: NetName=Netind_1 Pin=ind-1
+Added Pin To Net: NetName=Netind_1 Pin=U1-1
+Added Net: Name=Netind_1
+Added Pin To Net: NetName=Netind_2 Pin=ind-2
+Added Pin To Net: NetName=Netind_2 Pin=Y1-1
+Added Net: Name=Netind_2
+Added Member To Class: ClassName=TX_FM Member=Component ind Res Semi
